@@ -1,0 +1,12 @@
+﻿  Matris.cpp
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(56,43): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(62,40): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(68,36): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(82,39): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  MatrisIslemleri.cpp
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(56,43): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(62,40): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(68,36): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\Work\C++ Works\Matris\Matris\MatrisIslemleri.cpp(82,39): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Kod Üretiliyor...
+  Matris.vcxproj -> D:\Work\C++ Works\Matris\x64\Debug\Matris.exe
